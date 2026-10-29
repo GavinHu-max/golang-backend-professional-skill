@@ -1,0 +1,4 @@
+interface:
+  display_name: "Professional Go Backend"
+  short_description: "Design Go APIs, durable history, and reliable backends"
+  default_prompt: "Use $golang-backend-professional to implement this backend change with explicit contracts, failure behavior, and verified evidence."
